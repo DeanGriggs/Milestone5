@@ -1,0 +1,13 @@
+C:\dean\School\cst-150\cleaned up\MileStone\Milestone 3\Milestone 3\Milestone 3\bin\Debug\Milestone 3.exe.config
+C:\dean\School\cst-150\cleaned up\MileStone\Milestone 3\Milestone 3\Milestone 3\bin\Debug\Milestone 3.exe
+C:\dean\School\cst-150\cleaned up\MileStone\Milestone 3\Milestone 3\Milestone 3\bin\Debug\Milestone 3.pdb
+C:\dean\School\cst-150\cleaned up\MileStone\Milestone 3\Milestone 3\Milestone 3\obj\Debug\Milestone 3.csproj.AssemblyReference.cache
+C:\dean\School\cst-150\cleaned up\MileStone\Milestone 3\Milestone 3\Milestone 3\obj\Debug\Milestone 3.csproj.SuggestedBindingRedirects.cache
+C:\dean\School\cst-150\cleaned up\MileStone\Milestone 3\Milestone 3\Milestone 3\obj\Debug\Milestone_3.Properties.Resources.resources
+C:\dean\School\cst-150\cleaned up\MileStone\Milestone 3\Milestone 3\Milestone 3\obj\Debug\Milestone 3.csproj.GenerateResource.cache
+C:\dean\School\cst-150\cleaned up\MileStone\Milestone 3\Milestone 3\Milestone 3\obj\Debug\Milestone 3.csproj.CoreCompileInputs.cache
+C:\dean\School\cst-150\cleaned up\MileStone\Milestone 3\Milestone 3\Milestone 3\obj\Debug\Milestone 3.exe
+C:\dean\School\cst-150\cleaned up\MileStone\Milestone 3\Milestone 3\Milestone 3\obj\Debug\Milestone 3.pdb
+C:\dean\School\cst-150\cleaned up\MileStone\Milestone 3\Milestone 3\Milestone 3\obj\Debug\Milestone_3.InventoryMain.resources
+C:\dean\School\cst-150\cleaned up\MileStone\Milestone 3\Milestone 3\Milestone 3\obj\Debug\Milestone_3.Search.resources
+C:\dean\School\cst-150\cleaned up\MileStone\Milestone 3\Milestone 3\Milestone 3\obj\Debug\Milestone_3.Edit.resources
